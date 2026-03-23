@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum vitae — Wouter van den Meulenhof
+title: Curriculum Vitae
 ---
 
 # Wouter van den Meulenhof
