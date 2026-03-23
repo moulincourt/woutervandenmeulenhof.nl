@@ -84,7 +84,7 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 ## Vaardigheden
 
 | Domein | Technologieën |
-|---|---|
+|:--|:--|
 | Cloud & Systems Administration | Microsoft Azure, Hyper-V, Proxmox, Veeam, Windows Server, Ubuntu Server |
 | Database Administration | Microsoft SQL Server, PostgreSQL, Azure SQL, Azure CosmosDB |
 | Identity & Access Management | Microsoft Entra ID, Active Directory, HelloID Provisioning |
