@@ -25,7 +25,7 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 - Installeren en instandhouden van Windows Server- en Microsoft SQL Server systemen
 - Inrichten, beheren en beveiligen van klantomgevingen binnen het Azure platform
 - Beheren en beveiligen van klantomgevingen binnen Microsoft 365 (Entra ID, Exchange)
-- Instandhouden en doorontwikkelen van afdelingstooling (o.a. Azure DevOps)
+- Instandhouden en doorontwikkelen van afdelingstooling (o.a. Azure DevOps, Devolutions Server)
 - Ontwikkelen en onderhouden van IaC-templates (Terraform, Ansible) en CI/CD-pipelines
 - Automatiseren van terugkerende taken en rapportages (PowerShell, Python, Bash)
 - Optreden als SME op het gebied van werken met de management API's van Microsoft en andere vendoren
@@ -88,8 +88,8 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 | Cloud & Systems Administration | Microsoft Azure, Hyper-V, Proxmox, Veeam, Windows Server, Ubuntu Server |
 | Database Administration | Microsoft SQL Server, PostgreSQL, Azure SQL, Azure CosmosDB |
 | Identity & Access Management | Microsoft Entra ID, Active Directory, HelloID Provisioning |
-| Scripting & Infrastructure as Code | Python, PowerShell, T-SQL, Ansible, Terraform, Bicep, ARM templates |
-| Tools | Azure DevOps, GitHub Enterprise, Docker, VSCode, Git |
+| Scripting & Infrastructure as Code | Python, PowerShell, T-SQL, Ansible, Terraform/OpenTofu, Bicep, ARM templates |
+| Tools of the Trade | Azure DevOps, GitHub Enterprise, Docker, VSCode, Git |
 
 ---
 
@@ -110,7 +110,7 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - HashiCorp Certified: Terraform Associate *(verlopen: juni 2025)*
-- AWS Certified: Cloud Practitioner *(expired: June 2024)*
+- AWS Certified: Cloud Practitioner *(verlopen: juni 2024)*
 - HelloID Provisioning Associate
 - HelloID Provisioning Fundamentals
 - ITIL 4 Foundation
