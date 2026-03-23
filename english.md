@@ -84,7 +84,7 @@ I enjoy working hands-on in a close-knit and diverse team, and I find satisfacti
 ## Skills
 
 | Domain | Technologies |
-|---|---|
+|:--|:--|
 | Cloud & Systems Administration | Microsoft Azure, Hyper-V, Proxmox, Veeam, Windows Server, Ubuntu Server |
 | Database Administration | Microsoft SQL Server, PostgreSQL, Azure SQL, Azure CosmosDB |
 | Identity & Access Management | Microsoft Entra ID, Active Directory, HelloID Provisioning |
@@ -93,7 +93,7 @@ I enjoy working hands-on in a close-knit and diverse team, and I find satisfacti
 
 ---
 
-## IT Certifications
+## Certifications
 
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Solutions Architect Expert

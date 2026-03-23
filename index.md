@@ -5,6 +5,8 @@ title: Curriculum Vitae - Nederlands
 
 # Wouter van den Meulenhof
 
+![Avatar](assets/avatar.png)
+
 **Cloud- & DevOps Engineer** · Regio Eindhoven, Noord-Brabant
 
 ---
@@ -93,7 +95,7 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 
 ---
 
-## IT-Certificeringen
+## Certificeringen
 
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Solutions Architect Expert
