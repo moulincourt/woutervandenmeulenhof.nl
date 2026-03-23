@@ -130,3 +130,8 @@ I enjoy working hands-on in a close-knit and diverse team, and I find satisfacti
 - LEGO
 - History
 - Computers
+
+## Contact
+
+GitHub: [link](https://www.github.com/moulincourt)
+LinkedIn: [link](https://www.linkedin.com/in/moulincourt)

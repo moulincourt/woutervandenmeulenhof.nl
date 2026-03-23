@@ -130,3 +130,10 @@ Ik werk graag hands-on in een hecht en divers team en haal plezier uit het bouwe
 - LEGO
 - Geschiedenis
 - Computers
+
+---
+
+## Contact
+
+GitHub: [link](https://www.github.com/moulincourt)
+LinkedIn: [link](https://www.linkedin.com/in/moulincourt)
