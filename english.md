@@ -133,5 +133,5 @@ I enjoy working hands-on in a close-knit and diverse team, and I find satisfacti
 
 ## Contact
 
-GitHub: [link](https://www.github.com/moulincourt)
-LinkedIn: [link](https://www.linkedin.com/in/moulincourt)
+- [GitHub](https://www.github.com/moulincourt)
+- [LinkedIn](https://www.linkedin.com/in/moulincourt)
