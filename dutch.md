@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: Curriculum Vitae - Nederlands
 ---
 
 # Wouter van den Meulenhof
